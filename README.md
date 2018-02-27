@@ -6,4 +6,4 @@ Un proyecto inicial
 - Documentación
 - Fuentes
 - cosas...
-
+- véase ![las figuras](prueba/DWtf_PuU8AAHQpi.jpg "Como puede verse")
